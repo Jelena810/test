@@ -1,3 +1,5 @@
 -toalet papir
 -brasno
 -suvi kvasac
+-jos toalet papira
+-slag
